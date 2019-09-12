@@ -1,5 +1,5 @@
 # CAX Mortgage by CrowdANALYTIX: Yury Fedotov
-To see the code itself, please, open the notebook 'CAX_Mortgage_Fedotov' in the repository!
+**To see the code itself, please, open the notebook 'CAX_Notebook_Fedotov' in the repository! But I'd recommend you to read this file first**
 ## Introduction ##
 CAX Mortgage by CrowdANALYTIX was my first ML competition (**May 2019**). Before participating in it, I had already studied 100+ hours of Python courses at DataCamp, created a Python-based model for valuation of M&A deals within my bachelor thesis, and created a minimum viable pipeline for the famous Titanic problem at Kaggle.
 
